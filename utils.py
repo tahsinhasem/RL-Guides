@@ -612,5 +612,5 @@ def plot_q_table(q_table):
     ax.grid(color='white', linestyle='-', linewidth=1)
     ax.set_aspect('equal')
     
-    plt.title("Cliff Walking Q-Table (Cross-Section Triangles)", fontsize=14, pad=15)
+    plt.title("Cliff Walking Q-Table", fontsize=14, pad=15)
     plt.show()
